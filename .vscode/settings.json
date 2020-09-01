@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/263ad9d1-4a62-459e-b5d4-59068c5cf9e0/resourceGroups/saatwik/providers/Microsoft.Web/sites/service-worker",
+    "appService.deploySubpath": "."
+}
